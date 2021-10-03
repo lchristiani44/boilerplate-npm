@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "1.0.0",
 	"author": "Lorenzo Christiani Mansilla",
+	"description": "This is a educational project for learning and master back-end development",
+	"keywords": ["FreeCodeCamp", "back-end", "MyFirstBack-EndProject", "replit"],
+	"license": "BSD",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
