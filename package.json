@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Lorenzo Christiani Mansilla",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,6 +11,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/lchristiani44/boilerplate-npm"
-	},
-	"author": "Lorenzo Christiani Mansilla"
+	}
 }
